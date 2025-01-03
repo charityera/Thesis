@@ -1,4 +1,4 @@
 import { registerRootComponent } from "expo";
-import Routes from "./scripts/routes";
+import Routes from "./routes";
 
 registerRootComponent(Routes);
